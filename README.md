@@ -2,7 +2,7 @@
 
 * 🗒️ Estudante de Análise e Desenvolvimento de Sistemas 
 * 💻 Desenvolver Front-end Jr viciado em café
-* 🌍 Em busca do meu primeiro trabalho de front-end no mercado de trabalho\
+* 🌍 Em busca do meu primeiro trabalho de front-end no mercado de trabalho
 * ❤️ Apreciador de novas idéias 
 #
 
@@ -22,6 +22,16 @@
   <img height="160em" width: "20px" src="https://github-readme-stats.vercel.app/api?username=egon-alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egon-alves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+  
+#
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  
+#
+  
+  
+  
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+#
 
 
