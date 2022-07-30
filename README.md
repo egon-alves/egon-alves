@@ -1,11 +1,16 @@
-### Olá! Eu sou o Egon Alves
+## 🤚 Olá, meu Egon Alve seja bem vindo ao meu github 
+
+* 🗒️ Estudante de Análise e Desenvolvimento de Sistemas 
+- 💻 Desenvolver Front-end Jr viciado em café
+
+
 
 <div>
   <a href="https://github.com/egon-alves">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=egon-alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egon-alves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" width: "20px" src="https://github-readme-stats.vercel.app/api?username=egon-alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egon-alves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+#
 📫 Como entrar em contato comigo: ...
    <div>
      <a href="https://www.linkedin.com/in/alexandre-viana-434b45160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
