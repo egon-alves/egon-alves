@@ -6,11 +6,16 @@
 * ❤️ Apreciador de novas idéias 
 #
 
-## 📫 Como entrar em contato comigo: ...
-   <div>
+## 📫 Como entrar em contato comigo:
+  <div>
+  <a href="https://www.linkedin.com/in/alexandre-viana-434b45160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/aleviannaf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/J58pxGW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alexandrevianna511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/qr/ODX24D74HD6OI1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ </div>
 
-
-
+#
 
 <div>
   <a href="https://github.com/egon-alves">
