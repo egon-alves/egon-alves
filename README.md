@@ -24,7 +24,7 @@
 </div>
   
 
-  ## 🚀 Skills
+  ## 🚀 Habilidades
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,7 +41,7 @@
   
 # 
   
-## 💻  Workspace 
+## 💻  Area de trabalho 
 
   <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> 
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_5700G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> 
