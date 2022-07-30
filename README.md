@@ -23,11 +23,16 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egon-alves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-#
+
+  ##  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/rocket_1f680.png" width="22px" height="22px" /> Habilidades
+
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/rocket_1f680.png" width="40" height="40" /> 
+
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/rocket_1f680.png" width="40" height="40" /> 
   
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-  
 #
+
+
   
   
   
