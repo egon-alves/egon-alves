@@ -3,7 +3,7 @@
 * 🗒️ Estudante de Análise e Desenvolvimento de Sistemas 
 * 💻 Desenvolver Front-end Jr viciado em café
 * 🌍 Em busca do meu primeiro trabalho de front-end no mercado de trabalho
-* ❤️ Apreciador de novas idéias 
+* ❤️ Apreciador de novas ideias 
 #
 
 ## 📫 Contato:
