@@ -12,9 +12,7 @@
   <a href = "mailto:egonalves03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/qr/ODX24D74HD6OI1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
-
 #
-
 <div>
   <a href="https://github.com/egon-alves">
   <img height="160em" width: "20px" src="https://github-readme-stats.vercel.app/api?username=egon-alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,6 +26,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> </br>
   <img src="https://aleen42.github.io/badges/src/photoshop.svg" /> 
   <img src="https://aleen42.github.io/badges/src/illustrator.svg" /> 
@@ -37,7 +36,7 @@
 
   
   
-# 
+#
   
 ## 💻  Area de trabalho 
 
@@ -52,8 +51,6 @@
 
   
   
-  
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-#
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
