@@ -12,7 +12,7 @@
   <a href = "mailto:egonalves03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/qr/ODX24D74HD6OI1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
-#
+
 <div>
   <a href="https://github.com/egon-alves">
   <img height="160em" width: "20px" src="https://github-readme-stats.vercel.app/api?username=egon-alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
