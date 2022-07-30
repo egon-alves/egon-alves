@@ -24,13 +24,32 @@
 </div>
   
 
-  ##  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/rocket_1f680.png" width="22px" height="22px" /> Habilidades
+  ## 🚀 Skills
 
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/rocket_1f680.png" width="40" height="40" /> 
-
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/rocket_1f680.png" width="40" height="40" /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> </br>
+  <img src="https://aleen42.github.io/badges/src/photoshop.svg" /> 
+  <img src="https://aleen42.github.io/badges/src/illustrator.svg" /> 
+  <img src="https://aleen42.github.io/badges/src/after_effects.svg" /> 
   
-#
+
+
+  
+  
+# 
+  
+## 💻  Workspace 
+
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/AMD-Ryzen_7_5700G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> 
+
+
 
 
   
