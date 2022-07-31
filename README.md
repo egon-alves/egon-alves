@@ -53,4 +53,4 @@
   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-
+<div align=center><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-45YdAA6w1d17Bxc2-57.gif' border='0' alt='contador de acesso'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=45YdAA6w1d17Bxc2'></script></div>
