@@ -53,4 +53,6 @@
   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-<div align=center><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-45YdAA6w1d17Bxc2-57.gif' border='0' alt='contador de acesso'></div>
+<div align=center>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?egon-alves=anuraghazra&repo=github-FAQ)](https://github.com/anuraghazra/github-readme-stats)</div>
+
+  
