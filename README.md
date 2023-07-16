@@ -1,9 +1,6 @@
 ## 🤚 Olá, meu Egon Alves seja bem vindo ao meu github 
 
 * 🗒️ Estudante de Análise e Desenvolvimento de Sistemas 
-* 💻 Desenvolver Front-end Jr *viciado em café*
-* 🌍 Em busca do meu primeiro trabalho de front-end no mercado de trabalho
-* ❤️ Apreciador de novas ideias 
 ## 📫 Contato:
   <div>
   <a href="https://www.linkedin.com/in/egonalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
